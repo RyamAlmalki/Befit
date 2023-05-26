@@ -4,7 +4,7 @@
 
 
 <h1 align="left">Befit</h1>
-<p>Match is a mini flutter game that determines how fast you are on making a choice</p>
+<p>User-Friendly BMI calculator. The app will keep track of the user's BMI and provide a visual graph to view its changes to maintain a healthy body</p>
 
 <h1 align="left">Features</h1>
 <ul>
