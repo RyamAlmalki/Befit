@@ -17,5 +17,5 @@
 <h1 align="left">Demo</h1>
 
 <p align="center">
-    <img width="800" src="https://github.com/RyamAlmalki/Befit/blob/master/befit_demo.png?raw=true" alt="Material Bread logo">
+    <img width="500" src="https://github.com/RyamAlmalki/Befit/blob/master/befit_demo.png?raw=true" alt="Material Bread logo">
 </p>
