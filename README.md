@@ -1,16 +1,21 @@
-# befit
+<p align="center">
+    <img width="1200" src="https://github.com/RyamAlmalki/Match/blob/master/cover.png?raw=true" alt="Material Bread logo">
+</p>
 
-A new Flutter project.
 
-## Getting Started
+<h1 align="left">Befit</h1>
+<p>Match is a mini flutter game that determines how fast you are on making a choice</p>
 
-This project is a starting point for a Flutter application.
+<h1 align="left">Features</h1>
+<ul>
+  <li>Splash screen</li>
+  <li>Stopwatch</li>
+  <li>User-Friendly Navigation</li>
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1 align="left">Demo</h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+    <img width="800" src="https://github.com/RyamAlmalki/Match/blob/master/pages.png?raw=true" alt="Material Bread logo">
+</p>
