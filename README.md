@@ -8,7 +8,7 @@
 
 <h1 align="left">Features</h1>
 <ul>
-  <li>Splash screen</li>
+  <li>Track BMI</li>
   <li>Visual graph</li>
   <li>User-Friendly Navigation</li>
 </ul>
