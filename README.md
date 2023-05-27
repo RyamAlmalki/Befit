@@ -4,7 +4,7 @@
 
 
 <h1 align="left">Befit</h1>
-<p>User-Friendly BMI calculator. The app will keep track of the user's BMI and provide a visual graph to view its changes to maintain a healthy body</p>
+<p>User-Friendly BMI calculator. The app will keep track of the user's BMI and provide a visual graph to view its changes to maintain a healthy body.</p>
 
 <h1 align="left">Features</h1>
 <ul>
